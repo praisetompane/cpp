@@ -2,29 +2,36 @@
 
 **objective**: an in-depth study of C++, its implementation and ecosystem.
 
-## Content:
+## Language Details: 
+- [language specification](https://isocpp.org/std/the-standard)
 - [language reference]()
 - [base modules index]()
 - [standard library reference]()
-- packaging and package management:
+- package management:
   - [packaging]()
-  - tools:
-    - [third party modules/packages index]()
-    - editor:
-      - https://wiki.python.org/moin/IntegratedDevelopmentEnvironments
-  - structuring projects:
-    - [python-packaging]()
-    - [src layout]()
-  - testing:
-    - [pytest]():
-      - [goodpractices]()
-
+	- tools:
+	- structuring projects:
+- [package index]()
 - [extending and embedding]()
-- [developer contribution guide]()
 - [compiler/interpreter]()
 - memory model:
   - [computational complexity cost model]()
-- history and usage:
-  - [history]()
+- [developer contribution guide]()
+- history:
+
+## Testing:
+- [Catch2](https://github.com/catchorg/Catch2)
+
+## Use Cases:
+- [Applications of C++]()
+- Large Implementations:
+- Database Integration:
+- Web Development:
+
+## Learning Resources:
+- [roadmap](https://roadmap.sh/cpp)
+- [practice problems](https://www.hackerrank.com/domains/cpp)
+
+## References:
 
 **Disclaimer**: This is an ongoing and incomplete project to unpack these concepts and serve as my distributed memory.
