@@ -4,6 +4,7 @@
 
 ## Language Details: 
 - [language specification](https://isocpp.org/std/the-standard)
+- [compiler/interpreter]()
 - [language reference]()
 - [base modules index]()
 - [standard library reference]()
@@ -13,7 +14,6 @@
 	- structuring projects:
 - [package index]()
 - [extending and embedding]()
-- [compiler/interpreter]()
 - memory model:
   - [computational complexity cost model]()
 - [developer contribution guide]()
@@ -24,9 +24,6 @@
 
 ## Use Cases:
 - [Applications of C++]()
-- Large Implementations:
-- Database Integration:
-- Web Development:
 
 ## Learning Resources:
 - [roadmap](https://roadmap.sh/cpp)
