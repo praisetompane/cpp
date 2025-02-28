@@ -1,0 +1,15 @@
+{
+  "name": "c++",
+  "image": "mcr.microsoft.com/vscode/devcontainers/cpp",
+  "customizations": {
+    "vscode": {
+      "extensions": [
+        "llvm-vs-code-extensions.lldb-dap",
+        "ms-vscode.cpptools-extension-pack"
+      ],
+      "settings": {}
+    }
+  },
+  "workspaceMount": "source=${localWorkspaceFolder},target=/cpp,type=bind,consistency=delegated",
+  "workspaceFolder": "/cpp"
+}
