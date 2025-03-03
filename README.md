@@ -1,8 +1,10 @@
 # C++
 
-**objective**: an in-depth study of C++, its implementation and ecosystem.
+- An in-depth study of:
+	- C++'s Compiler.
+	- C++'s language design, implementation and ecosystem.
 
-## Language Details: 
+## Language Details:
 - [language specification](https://isocpp.org/std/the-standard)
 - [compiler/interpreter]()
 - [language reference]()
