@@ -52,5 +52,8 @@ Mkfile.old
 dkms.conf
 
 # administration
-journal
+applications/
+ecosystem/
+journal/
+scratch_pad/
 .DS_Store

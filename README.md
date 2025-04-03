@@ -1,8 +1,7 @@
 # C++
 
-- An in-depth study of:
-	- C++'s Compiler.
-	- C++'s language design, implementation and ecosystem.
+## Objectives
+- Notes: The C++ Programming Language 
 
 ## Language Details:
 - [language specification](https://isocpp.org/std/the-standard)
@@ -21,8 +20,6 @@
 - [developer contribution guide]()
 - history:
 
-## Testing:
-- [Catch2](https://github.com/catchorg/Catch2)
 
 ## Use Cases:
 - [Applications of C++]()
