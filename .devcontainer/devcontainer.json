@@ -5,7 +5,12 @@
     "vscode": {
       "extensions": [
         "llvm-vs-code-extensions.lldb-dap",
-        "ms-vscode.cpptools-extension-pack"
+        "ms-vscode.cpptools-extension-pack",
+        "ms-vscode.cmake-tools",
+        "ms-vscode.cpptools",
+        "ms-vscode.cpptools-themes",
+        "twxs.cmake",
+        "vadimcn.vscode-lldb"
       ],
       "settings": {}
     }
